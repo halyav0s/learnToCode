@@ -4,3 +4,6 @@ ul {
 p {
 	color: blue;
 }
+p#p1 {
+	color: pink;
+}
